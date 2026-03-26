@@ -29,6 +29,7 @@ This project demonstrates how environmental data (soil moisture) can be collecte
 * The sensor value is printed on the LCD using cursor positioning.
 
 ## 📷 Output
+![Project Output](output.png)
 
 The LCD screen displays:
 
